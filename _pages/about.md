@@ -19,11 +19,8 @@ redirect_from:
   - /daiyudi.html
 ---
 
-I am currently a postdoctoral fellow at the [ETH AI Center](https://ai.ethz.ch/), collaborating with Prof. [Siyu Tang](https://vlg.inf.ethz.ch/team/Prof-Dr-Siyu-Tang.html) and Prof. [Christian Holz](https://www.christianholz.net/). I received my Ph.D. in 2024 from [Xiamen University](https://en.xmu.edu.cn/) with Prof. [Cheng Wang](http://www.cwang93.net/index_en.htm) and Prof. [Chenglu Wen](https://asc.xmu.edu.cn/t/wenchenglu), in 2024. 
-Before that, I completed my B.E. in 2016 and pursued a two-year master's study (2017-2019) at Xiamen University. 
-My research interests lie in 3D Computer Vision, including scene mapping, scene-aware 4D human motion capturing, and Human-scene interaction reconstruction. 
-My objective is to develop robust methods to perceive and understand human behavior in complex environments.
-
+I am a Senior Research Engineer at DiDi Autonomous Driving, working on Embodied AI and Vision-Language-Action (VLA) systems for robotic platforms that support autonomous vehicle operations. Previously, I was a Postdoctoral Fellow at the [ETH AI Center](https://ai.ethz.ch/), collaborating with [Prof. Siyu Tang](https://vlg.inf.ethz.ch/team/Prof-Dr-Siyu-Tang.html) and [Prof. Christian Holz](https://www.christianholz.net/), where I worked on human motion capture from egocentric videos and wearable IMUs. I received my Ph.D. in 2024 from [Xiamen University](https://en.xmu.edu.cn/), supervised by [Prof. Cheng Wang](http://www.cwang93.net/index_en.htm) and [Prof. Chenglu Wen](https://asc.xmu.edu.cn/t/wenchenglu), focusing on 3D computer vision, 4D human motion capture, and human–scene interaction reconstruction.  
+My goal is to enable embodied agents to understand, reason about, and interact with the physical world for real-world robotic and autonomous systems.
 
 ## News!
 - 02/2025: [ClimbingCap](http://www.lidarhumanmotion.net/climbingcap/) was accepted by CVPR 2025 (🪄Highlight (13.4%)) .
